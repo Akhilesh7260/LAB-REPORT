@@ -2,7 +2,7 @@
 
 **Name:** DEVA AKHILESH · **Registration number:** 252U1R9030 · **Section:** CSE-2A-304
 
-**Live link:** PASTE PUBLIC URL HERE (or explain why the project could not be deployed)
+**Live link:** https://lab-report-2.onrender.com/books
 
 ## How to run
 

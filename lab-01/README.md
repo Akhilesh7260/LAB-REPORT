@@ -4,7 +4,7 @@
 **Registration number:** 252U1R9030  
 **Section:** CSE-2A-304  
 
-**Live link:** Not deployed yet
+**Live link:** https://lab-report-ye31.onrender.com
 
 ## Objective
 Create a Node.js project and build a small web server using Express. The server provides three routes and returns a 404 response for unknown paths.

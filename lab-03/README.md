@@ -10,6 +10,7 @@
 | **Branch** | CSE – Gen AI |
 | **Institution** | Aurora |
 | **Faculty** | Joel Prashanth D |
+LIVE LINK : https://lab-report-1-uhbr.onrender.com/
 
 ---
 

@@ -1,0 +1,22 @@
+{
+  "name": "lab-03-rest-api",
+  "version": "1.0.0",
+  "description": "Lab 03 - REST API, Query Parameters, Validation, and Debugging",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "sqlite",
+    "backend"
+  ],
+  "author": "D. Akhilesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.7"
+  }
+}
+
